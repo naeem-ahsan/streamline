@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Dynamically update YouTube videos in React App by URL/ID
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
